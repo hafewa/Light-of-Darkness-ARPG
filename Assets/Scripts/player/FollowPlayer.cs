@@ -40,7 +40,7 @@ public class FollowPlayer : MonoBehaviour {
     // 控制视野旋转
     void RotateView()
     {
-        if (Input.GetMouseButtonDown(0))        // 监听鼠标左键
+        if (Input.GetMouseButtonDown(0) && !UICamera.isOverUI)        // 监听鼠标左键
         {
             isRotate = true;
         }

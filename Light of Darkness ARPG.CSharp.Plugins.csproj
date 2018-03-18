@@ -122,6 +122,7 @@
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
+    <None Include="Assets\OjbectsInfoList.txt" />
     <None Include="Assets\RPG\Model\Model Character\Magician\Magician_Animation.txt" />
     <None Include="Assets\RPG\Model\Model Character\Swordman\Swordman_Animation.txt" />
     <None Include="Assets\RPG\Model\Model Enemy\Wolf\Wolf_Animation.txt" />

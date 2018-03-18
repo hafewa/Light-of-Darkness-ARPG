@@ -224,14 +224,23 @@
     <Compile Include="Assets\RPG\Effect\Effects_01\Prefebs\DestroyForTime.cs" />
     <Compile Include="Assets\RPG\Effect\Effects_02\ScrollUV.cs" />
     <Compile Include="Assets\Scripts\character creation\CharacterCretion.cs" />
+    <Compile Include="Assets\Scripts\custom\CussorManager.cs" />
+    <Compile Include="Assets\Scripts\custom\Inventory.cs" />
+    <Compile Include="Assets\Scripts\custom\InventoryItem.cs" />
+    <Compile Include="Assets\Scripts\custom\InventoryItemGrid.cs" />
+    <Compile Include="Assets\Scripts\custom\ObjectsInfo.cs" />
     <Compile Include="Assets\Scripts\custom\Tags.cs" />
+    <Compile Include="Assets\Scripts\npc\BarNPC.cs" />
+    <Compile Include="Assets\Scripts\npc\NPC.cs" />
     <Compile Include="Assets\Scripts\player\CharacterAnimation.cs" />
     <Compile Include="Assets\Scripts\player\CharacterDir.cs" />
     <Compile Include="Assets\Scripts\player\CharacterMove.cs" />
     <Compile Include="Assets\Scripts\player\FollowPlayer.cs" />
+    <Compile Include="Assets\Scripts\player\PlayerStatus.cs" />
     <Compile Include="Assets\Scripts\start\ButtonContainer.cs" />
     <Compile Include="Assets\Scripts\start\MovieCamera.cs" />
     <Compile Include="Assets\Scripts\start\PressAnyKey.cs" />
+    <Compile Include="Assets\Scripts\ui\FunctionBar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
@@ -275,6 +284,7 @@
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
+    <None Include="Assets\OjbectsInfoList.txt" />
     <None Include="Assets\RPG\Model\Model Character\Magician\Magician_Animation.txt" />
     <None Include="Assets\RPG\Model\Model Character\Swordman\Swordman_Animation.txt" />
     <None Include="Assets\RPG\Model\Model Enemy\Wolf\Wolf_Animation.txt" />
